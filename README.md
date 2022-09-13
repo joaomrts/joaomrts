@@ -9,8 +9,8 @@
 - 🌱 No momento estudando React ...
 <div align="center">
   <a href="https://github.com/joaomrts">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=joaomrts&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrts&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" width="170em" src="https://github-readme-stats.vercel.app/api?username=joaomrts&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="175em" width="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrts&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
